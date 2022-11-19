@@ -4,6 +4,8 @@ This anonymous GitHub repository contains the PyTorch implementation for CVPR 20
 
 This repository focuses on testing our trained ViPLO on the HICO-DET benchmark. As mentioned in the paper, this code is implemented based on the [official code of SCG](https://github.com/fredzzhang/spatially-conditioned-graphs) (Frederic Z. Zhang, Dylan Campbell and Stephen Gould. _Spatially Conditioned Graphs for Detecting Human-Object Interactions_. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pages 13319-13327, October 2021).
 
+(This repo is tested on Ubuntu 18.04 and Ubuntu 20.04 environment)
+
 ## Description
 The two main contributions of our paper, MOA module and pose-conditioned graph, are implemented as follow.
 - MOA module is implemented in the `CLIP` package, for example, in `./CLIP/clip/model.py`.
