@@ -1,6 +1,6 @@
 # ViPLO: Vision Transformer based Pose-Conditioned Self-Loop Graph for Human-Object Interaction Detection
 
-This anonymous GitHub repository contains the PyTorch implementation for CVPR 2023 paper (ID 10478) as a supplementary material.
+This anonymous GitHub repository contains the PyTorch implementation for CVPR 2023 paper (ID 10478) submission as a supplementary material.
 
 This repository focuses on testing our trained ViPLO on the HICO-DET benchmark. As mentioned in the paper, this code is implemented based on the [official code of SCG](https://github.com/fredzzhang/spatially-conditioned-graphs) (Frederic Z. Zhang, Dylan Campbell and Stephen Gould. _Spatially Conditioned Graphs for Detecting Human-Object Interactions_. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pages 13319-13327, October 2021).
 
